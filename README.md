@@ -1,7 +1,7 @@
 
-# Building first images with Docker
+# Building your first image with Docker
 
-Building images is quite simple, especially when using a Dockerfile.
+Building images is quite simple, especially when using a Dockerfile. This README provides a quick tutorial on creating your first image and then pushing it to DockerHub to share with others!  It was created for the NRV ContainerDay event on Sept 2.
 
 ## Creating the project
 
